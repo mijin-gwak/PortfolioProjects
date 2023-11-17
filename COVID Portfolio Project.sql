@@ -52,9 +52,7 @@ Group by location
 Order by TotalDeathCount desc
 
 -- Breaking down by continent
-
-
-
+	
 -- Showing Continents with the Highest Death Count per Population
 
 Select continent, MAX(Cast(total_deaths as int)) as TotalDeathCount
