@@ -14,3 +14,5 @@ The code and Power BI report included here are for the batch data, calculated th
 
 ### Dashboard 
 <img src="/PowerBI%20Dashboard%20for%20ETL%20and%20ELT%20Project.png" alt="Dashboard Screenshot" width="900"/>
+
+This live dashboard showcases boat locations, leading positions, top distances traveled, and speeds. The dashboard offers both transparency and ease of access in one centralized location.
