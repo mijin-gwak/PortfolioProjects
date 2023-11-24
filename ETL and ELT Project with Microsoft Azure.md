@@ -8,7 +8,7 @@ The goal of this project was to stream data from a fictional Vendee Global race.
 ### Conducted steps in Azure
 - [Link to ETL and ELT Project Document](/Steps%20for%20the%20ETL%20and%20ELT%20Project.pdf)
 
-### Python Script for calculating the location of boats
+### Python script for calculating the location of boats
 - [Link to Python Script](/finalbatchoutput.py)
 
 ### Dashboard 
