@@ -10,7 +10,7 @@ The code and Power BI report included here are for the batch data, calculated th
 - [Link to ETL and ELT Project Document](/Steps%20for%20the%20ETL%20and%20ELT%20Project.pdf)
 
 ### Python Script
-- [Link to Python Script][Link to Python Script](/finalbatchoutput.py)
+- [Link to Python Script](/finalbatchoutput.py)
 
-### Dashboard Screenshot
-![Dashboard Screenshot](/PowerBI%20Dashboard%20for%20ETL%20and%20ELT%20Project.png)
+### Dashboard 
+<img src="/PowerBI%20Dashboard%20for%20ETL%20and%20ELT%20Project.png" alt="Dashboard Screenshot" width="900"/>
